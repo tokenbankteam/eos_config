@@ -29,9 +29,9 @@ organization_name: EOS UNION NODE
 
 launch_data:
   wingmen:
-  - discovery_url: https://eoslaomao.keybase.pub/testnet-docker-node2.yaml
+  - discovery_url: https://eoslaomao.keybase.pub/testnet-docker-node1.yaml
     weight: 1.0
-  - discovery_url: https://eoslaomao.keybase.pub/testnet-docker-node3.yaml
+  - discovery_url: https://yangliu.keybase.pub/yang_discovery_file.yaml
     weight: 0.5
 
   boot_sequence:
